@@ -1,0 +1,43 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+#mytab{
+    border: 4px solid green;
+}
+#half{
+   color: red;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    background:blue;
+    /* letter-spacing: 20px; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+ body{
+    background-color: aqua;
+   
+ }
+ #box{
+    height: 150px;
+    width:300px;
+    display: inline-block;
+    margin: 25px;
+    text-align: center;
+    /* line-height: 20px; */
+    /* letter-spacing: 2px; */
+    margin-left: 80px;
+    color: white;
+    background-color: blueviolet;
+ }
+
+    /* height: auto;
+    width: auto; */
+
+ 
